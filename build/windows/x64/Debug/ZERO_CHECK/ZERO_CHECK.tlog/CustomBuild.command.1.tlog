@@ -1,0 +1,10 @@
+^C:\USERS\SHASHANK'S PC\ONEDRIVE\DESKTOP\AUDIOLIBAPP\AUDIOLIB_APP\BUILD\WINDOWS\CMAKEFILES\10D53432823669D13646B288ADA0C37A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/shashank's pc/OneDrive/Desktop/audiolibapp/audiolib_app/windows" "-BC:/Users/shashank's pc/OneDrive/Desktop/audiolibapp/audiolib_app/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/shashank's pc/OneDrive/Desktop/audiolibapp/audiolib_app/build/windows/audiolib_app.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

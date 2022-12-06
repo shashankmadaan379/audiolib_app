@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358562560068",
+    "project_id": "audiolibapp",
+    "storage_bucket": "audiolibapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358562560068:android:135864e1041f66ebde6411",
+        "android_client_info": {
+          "package_name": "com.example.audiolib_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358562560068-517g4m6frq5svdh4n89t468vqvuiv0qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAukv8O42e61wmiWGZa4rRqGDTZwVxbl-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358562560068-517g4m6frq5svdh4n89t468vqvuiv0qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\shashank's pc\OneDrive\Desktop\audiolibapp\audiolib_app\build\windows\CMakeFiles\10d53432823669d13646b288ada0c37a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{98EC293A-34F3-3E91-8BF0-836EF9803684}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

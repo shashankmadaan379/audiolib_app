@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">358562560068-517g4m6frq5svdh4n89t468vqvuiv0qt.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">358562560068</string>
+    <string name="google_api_key" translatable="false">AIzaSyAukv8O42e61wmiWGZa4rRqGDTZwVxbl-I</string>
+    <string name="google_app_id" translatable="false">1:358562560068:android:135864e1041f66ebde6411</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAukv8O42e61wmiWGZa4rRqGDTZwVxbl-I</string>
+    <string name="google_storage_bucket" translatable="false">audiolibapp.appspot.com</string>
+    <string name="project_id" translatable="false">audiolibapp</string>
+</resources>
